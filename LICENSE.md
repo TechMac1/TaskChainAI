@@ -2,7 +2,7 @@ Business Source License 1.1
 
 Licensor: Fortis Computus  
 Product: TaskChainAI  
-Licensed Work: The source code in this repository (https://github.com/yourname/TaskChainAI)  
+Licensed Work: The source code in this repository (https://github.com/TechMac1/TaskChainAI?tab=readme-ov-file#readme)
 Change Date: July 19, 2028  
 Change License: Apache License, Version 2.0
 
